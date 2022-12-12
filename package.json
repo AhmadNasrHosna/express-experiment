@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/ahmedhosna95/first-node-experiment#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
